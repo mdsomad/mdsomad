@@ -1,3 +1,4 @@
+![logo](https://github.com/mdsomad/mdsomad/blob/main/Group%2041.png)
 <h1 align="center">Hi 👋, I'm Md Somad</h1>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
 
